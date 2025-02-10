@@ -2,7 +2,7 @@
   "name": "react-app",
   "private": true,
   "version": "0.0.0",
-  "homepage": "https://your-username.github.io/your-repo",
+  "homepage": "https://SenArnab.github.io/react-app",
   "type": "module",
   "scripts": {
     "dev": "vite",
