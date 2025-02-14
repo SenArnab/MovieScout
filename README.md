@@ -65,13 +65,6 @@ TMDB API Docs: https://developer.themoviedb.org/
 
 ---
 
-📝 License
-
-This project is open-source and free to use under the MIT License.
-
-
----
-
 ## 🤝 Contributing
 
 💡 Want to improve the project? Feel free to fork and submit a pull request! 🚀
