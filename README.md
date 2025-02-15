@@ -1,6 +1,6 @@
 # 🎬 MovieScout  
 
-MovieScout is a *React.js* app that allows users to *search and discover movies* using **The Movie Database (TMDB) API**. It features a *trending section* powered by Appwrite and provides detailed movie information when clicked.  
+MovieScout is a *React.js* app that allows users to *search and discover movies* using **The Movie Database (TMDB) API**. It features a *trending section* powered by Appwrite and provides detailed movie information when clicked.  check the app now at https://senarnab.github.io/MovieScout/
 
 ---
 
